@@ -1,0 +1,16 @@
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\2_BranchDepth\BranchDepth\bin\Debug\net5.0\BranchDepth.exe
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\2_BranchDepth\BranchDepth\bin\Debug\net5.0\BranchDepth.deps.json
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\2_BranchDepth\BranchDepth\bin\Debug\net5.0\BranchDepth.runtimeconfig.json
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\2_BranchDepth\BranchDepth\bin\Debug\net5.0\BranchDepth.runtimeconfig.dev.json
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\2_BranchDepth\BranchDepth\bin\Debug\net5.0\BranchDepth.dll
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\2_BranchDepth\BranchDepth\bin\Debug\net5.0\ref\BranchDepth.dll
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\2_BranchDepth\BranchDepth\bin\Debug\net5.0\BranchDepth.pdb
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\2_BranchDepth\BranchDepth\obj\Debug\net5.0\BranchDepth.csprojAssemblyReference.cache
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\2_BranchDepth\BranchDepth\obj\Debug\net5.0\BranchDepth.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\2_BranchDepth\BranchDepth\obj\Debug\net5.0\BranchDepth.AssemblyInfoInputs.cache
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\2_BranchDepth\BranchDepth\obj\Debug\net5.0\BranchDepth.AssemblyInfo.cs
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\2_BranchDepth\BranchDepth\obj\Debug\net5.0\BranchDepth.csproj.CoreCompileInputs.cache
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\2_BranchDepth\BranchDepth\obj\Debug\net5.0\BranchDepth.dll
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\2_BranchDepth\BranchDepth\obj\Debug\net5.0\ref\BranchDepth.dll
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\2_BranchDepth\BranchDepth\obj\Debug\net5.0\BranchDepth.pdb
+D:\1_Clark\1_Work\Reiz Tech\.NET DEVELOPER (PAID INTERNSHIP)\2_BranchDepth\BranchDepth\obj\Debug\net5.0\BranchDepth.genruntimeconfig.cache
